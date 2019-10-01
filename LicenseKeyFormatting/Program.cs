@@ -1,7 +1,10 @@
 ﻿
 /*
-You are given a license key represented as a string S which consists only alphanumeric character and dashes. The string is separated into N+1 groups by N dashes.
-Given a number K, we would want to reformat the strings such that each group contains exactly K characters, except for the first group which could be shorter than K, but still must contain at least one character. Furthermore, there must be a dash inserted between two groups and all lowercase letters should be converted to uppercase.
+You are given a license key represented as a string S which consists only alphanumeric character and dashes. 
+The string is separated into N+1 groups by N dashes.
+Given a number K, we would want to reformat the strings such that each group contains exactly K characters, 
+except for the first group which could be shorter than K, but still must contain at least one character. 
+Furthermore, there must be a dash inserted between two groups and all lowercase letters should be converted to uppercase.
 Given a non-empty string S and a number K, format the string according to the rules described above.
 
 Example 1:
@@ -33,7 +36,48 @@ namespace LicenseKeyFormatting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Program p = new Program();
+            string S = "---";
+            int K = 3;
+
+            
+            string result = p.LicenseKeyFormatting(S, K);
+            Console.WriteLine(result);
+        }
+
+
+        public string LicenseKeyFormatting(string S, int K)
+        {
+
+            if (S.Length == 0 || S.Length > 120000 || K < 1)
+                return "";
+
+            string withOutDashes = S.Replace("-", "");
+            int len = withOutDashes.Length;
+            if (len < 1)
+                return "";
+
+            int rem = len % K;
+            string result = "";
+
+
+
+            if (rem != 0)
+            {
+                result = result + withOutDashes.Substring(0, rem) + "-";
+            }
+
+            while (rem < len)
+            {
+                result = result + withOutDashes.Substring(rem, K) + "-";
+                rem = rem + K;
+
+
+            }
+
+            result = result.Remove(result.Length - 1, 1).ToUpper();
+
+            return result;
         }
     }
 }
