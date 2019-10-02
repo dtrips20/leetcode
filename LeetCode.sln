@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumUniqueEmails", "NumUniqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseKeyFormatting", "LicenseKeyFormatting\LicenseKeyFormatting.csproj", "{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitIntoBaskets", "FruitIntoBaskets\FruitIntoBaskets.csproj", "{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
