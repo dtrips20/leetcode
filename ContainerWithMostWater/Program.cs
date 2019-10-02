@@ -29,33 +29,25 @@ namespace ContainerWithMostWater
         public int MaxArea(int[] height)
         {
             int start = 0;
-            int end = height.Length-1;
+            int end = height.Length - 1;
             int maxArea = 0;
-            int area = 0;
+            int area;
 
             while (start < end)
             {
                 int length = end - start;
                 if (height[start] < height[end])
                 {
-                   
                     area = height[start] * length;
                     start++;
-
-
                 }
                 else
                 {
-                 
                     area = height[end] * length;
                     end--;
                 }
-
                 maxArea = Math.Max(maxArea, area);
-
-
             }
-
             return maxArea;
         }
     }
