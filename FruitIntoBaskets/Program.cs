@@ -89,6 +89,7 @@ namespace FruitIntoBaskets
                         trees.Clear();
                         end--;
 
+                        
                         while (tree[end - 1] == tree[end] && end >=0)
                         {
                             end--;
