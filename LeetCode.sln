@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{D2F3C7A9-A399-41C6-A45E-5D786B66D558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{8A6A7BA8-C9E2-4DAB-B9B7-EC0D686937DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{8A6A7BA8-C9E2-4DAB-B9B7-EC0D686937DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumUniqueEmails", "NumUniqueEmails\NumUniqueEmails.csproj", "{014CC770-F8A1-453E-A76D-80A6BDB2CC67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumUniqueEmails", "NumUniqueEmails\NumUniqueEmails.csproj", "{014CC770-F8A1-453E-A76D-80A6BDB2CC67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseKeyFormatting", "LicenseKeyFormatting\LicenseKeyFormatting.csproj", "{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicenseKeyFormatting", "LicenseKeyFormatting\LicenseKeyFormatting.csproj", "{FDA1F5BF-B9D5-408B-BB34-7F34FE28B2B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitIntoBaskets", "FruitIntoBaskets\FruitIntoBaskets.csproj", "{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitIntoBaskets", "FruitIntoBaskets\FruitIntoBaskets.csproj", "{3D148F5A-9E91-48FB-A7ED-15B2F88DC89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{C21BF620-CEB4-439A-A819-5A109EB26390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{C21BF620-CEB4-439A-A819-5A109EB26390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeFromEndofList", "RemoveNthNodeFromEndofList\RemoveNthNodeFromEndofList.csproj", "{7BF538A7-6F76-402E-BC6C-F38770CD1724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C21BF620-CEB4-439A-A819-5A109EB26390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C21BF620-CEB4-439A-A819-5A109EB26390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C21BF620-CEB4-439A-A819-5A109EB26390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF538A7-6F76-402E-BC6C-F38770CD1724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF538A7-6F76-402E-BC6C-F38770CD1724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF538A7-6F76-402E-BC6C-F38770CD1724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF538A7-6F76-402E-BC6C-F38770CD1724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
