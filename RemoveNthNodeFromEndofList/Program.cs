@@ -16,6 +16,7 @@ Follow up:
 ============================
 Could you do this in one pass?
  */
+using Nodes;
 using System;
 
 namespace RemoveNthNodeFromEndofList
@@ -81,19 +82,7 @@ namespace RemoveNthNodeFromEndofList
             }
             secondPointer.next = secondPointer.next.next;
             return dummy.next;
-
-          
         }
 
     }
-
-
- 
-  //Definition for singly-linked list.
-  public class ListNode {
-      public int val;
-      public ListNode next;
-      public ListNode(int x) { val = x; }
- }
- 
 }
