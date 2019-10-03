@@ -26,32 +26,19 @@ namespace RemoveNthNodeFromEndofList
         static void Main(string[] args)
         {
 
-            int[] numbers = { 1,2 };
+            int[] numbers = { 1,2,3,4,5 };
+          
+            ListNode dummy = new ListNode(0);
+            ListNode head = dummy;
 
-            //create link list
-            int i = 0;
-            ListNode temp = null;
-            ListNode head = null;
-            while (i < numbers.Length)
+            for (int position = 0; position <= numbers.Length - 1; position++)
             {
-
-                if (temp == null)
-                {
-                    temp = new ListNode(numbers[i]);
-                    head = temp;
-                }
-                else
-                {
-                    while (temp.next != null)
-                    {
-                        temp = temp.next;
-                    }
-
-                    temp.next = new ListNode(numbers[i]);
-                }
-
-                i++;
+                ListNode tempNode = new ListNode(numbers[position]);
+                dummy.next = tempNode;
+                dummy = dummy.next;
             }
+            head = head.next;
+
 
             Program p = new Program();
             ListNode resultNode = p.RemoveNthFromEnd(head, 2);
