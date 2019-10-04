@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{16954358-B52D-4F42-A852-B74C1CF72F08}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkList", "LinkList", "{C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,6 +86,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BF538A7-6F76-402E-BC6C-F38770CD1724} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
+		{C3007C01-B057-47D0-9F29-44E402B0A707} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
+		{769C9021-A85E-4362-BB16-DB3E263DE1BB} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
+		{16954358-B52D-4F42-A852-B74C1CF72F08} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F4B5700-1ABE-45B0-8608-FE49FEDB3BF4}
