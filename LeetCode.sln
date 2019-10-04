@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "Revers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodes", "Nodes\Nodes.csproj", "{5E0E8584-EC85-4817-8971-1403E277A85C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{769C9021-A85E-4362-BB16-DB3E263DE1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{16954358-B52D-4F42-A852-B74C1CF72F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{5E0E8584-EC85-4817-8971-1403E277A85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0E8584-EC85-4817-8971-1403E277A85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E0E8584-EC85-4817-8971-1403E277A85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769C9021-A85E-4362-BB16-DB3E263DE1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769C9021-A85E-4362-BB16-DB3E263DE1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769C9021-A85E-4362-BB16-DB3E263DE1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769C9021-A85E-4362-BB16-DB3E263DE1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16954358-B52D-4F42-A852-B74C1CF72F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16954358-B52D-4F42-A852-B74C1CF72F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16954358-B52D-4F42-A852-B74C1CF72F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16954358-B52D-4F42-A852-B74C1CF72F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
