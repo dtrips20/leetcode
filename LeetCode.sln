@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "Pal
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkList", "LinkList", "{C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{13DDBAC5-2189-4926-A855-971556810BD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{16954358-B52D-4F42-A852-B74C1CF72F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16954358-B52D-4F42-A852-B74C1CF72F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16954358-B52D-4F42-A852-B74C1CF72F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DDBAC5-2189-4926-A855-971556810BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DDBAC5-2189-4926-A855-971556810BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DDBAC5-2189-4926-A855-971556810BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DDBAC5-2189-4926-A855-971556810BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{C3007C01-B057-47D0-9F29-44E402B0A707} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
 		{769C9021-A85E-4362-BB16-DB3E263DE1BB} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
 		{16954358-B52D-4F42-A852-B74C1CF72F08} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
+		{13DDBAC5-2189-4926-A855-971556810BD3} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F4B5700-1ABE-45B0-8608-FE49FEDB3BF4}
