@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{459152E7-B7D8-45CA-BD0A-346849FDDAE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{2203695C-E14C-4804-93F7-6857F9E9C57B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{459152E7-B7D8-45CA-BD0A-346849FDDAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{459152E7-B7D8-45CA-BD0A-346849FDDAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{459152E7-B7D8-45CA-BD0A-346849FDDAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2203695C-E14C-4804-93F7-6857F9E9C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2203695C-E14C-4804-93F7-6857F9E9C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2203695C-E14C-4804-93F7-6857F9E9C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2203695C-E14C-4804-93F7-6857F9E9C57B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +121,7 @@ Global
 		{13DDBAC5-2189-4926-A855-971556810BD3} = {C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}
 		{6B815223-A5FE-4397-8C80-6C220896F3D2} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
 		{459152E7-B7D8-45CA-BD0A-346849FDDAE9} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
+		{2203695C-E14C-4804-93F7-6857F9E9C57B} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F4B5700-1ABE-45B0-8608-FE49FEDB3BF4}
