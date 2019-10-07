@@ -37,7 +37,7 @@ namespace MergeSort
         public void Merge(int[] arr, int left, int mid, int right)
         {
             // add +1 to the equation becuase the size should be greated than 1 
-            // example : left = 0 and mid = 0 then we need to add 1 to make the size greater than 1.
+            // example : left = 0 and mid = 0 then we need to add 1 to make the size greater than 1
             int sizeOfLeftArray = mid - left +1 ;
             int sizeOfRightArray = right - mid;
 
