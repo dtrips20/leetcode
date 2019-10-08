@@ -36,7 +36,7 @@ namespace BestTimeToBuyAndSellStock
             Console.WriteLine(p.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
         }
 
-
+        //Solved using Kadane's Algorithm ( Max sub-array)
         public int MaxProfit(int[] prices)
         {
 
