@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedArrays", "MergeTwoSortedArrays\MergeTwoSortedArrays.csproj", "{7637699A-3274-4635-8FF6-B77E07D6A667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{62AECBA4-B705-4190-A96F-FA9EF7C8B639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{7637699A-3274-4635-8FF6-B77E07D6A667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7637699A-3274-4635-8FF6-B77E07D6A667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7637699A-3274-4635-8FF6-B77E07D6A667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
