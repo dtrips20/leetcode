@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedArrays", "Mer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{62AECBA4-B705-4190-A96F-FA9EF7C8B639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRobber", "HouseRobber\HouseRobber.csproj", "{2C99C618-7869-4801-9768-6B7658E3437F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62AECBA4-B705-4190-A96F-FA9EF7C8B639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C99C618-7869-4801-9768-6B7658E3437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C99C618-7869-4801-9768-6B7658E3437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C99C618-7869-4801-9768-6B7658E3437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C99C618-7869-4801-9768-6B7658E3437F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
