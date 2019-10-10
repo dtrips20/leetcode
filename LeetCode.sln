@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRobber", "HouseRobber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIsland", "NumberOfIsland\NumberOfIsland.csproj", "{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
