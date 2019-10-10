@@ -17,37 +17,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitIntoBaskets", "FruitIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{C21BF620-CEB4-439A-A819-5A109EB26390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeFromEndofList", "RemoveNthNodeFromEndofList\RemoveNthNodeFromEndofList.csproj", "{7BF538A7-6F76-402E-BC6C-F38770CD1724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthNodeFromEndofList", "RemoveNthNodeFromEndofList\RemoveNthNodeFromEndofList.csproj", "{7BF538A7-6F76-402E-BC6C-F38770CD1724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{C3007C01-B057-47D0-9F29-44E402B0A707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{C3007C01-B057-47D0-9F29-44E402B0A707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodes", "Nodes\Nodes.csproj", "{5E0E8584-EC85-4817-8971-1403E277A85C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nodes", "Nodes\Nodes.csproj", "{5E0E8584-EC85-4817-8971-1403E277A85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{769C9021-A85E-4362-BB16-DB3E263DE1BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{769C9021-A85E-4362-BB16-DB3E263DE1BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{16954358-B52D-4F42-A852-B74C1CF72F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{16954358-B52D-4F42-A852-B74C1CF72F08}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkList", "LinkList", "{C016F95E-4F90-40F2-B1BB-D0D4A250F0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{13DDBAC5-2189-4926-A855-971556810BD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{13DDBAC5-2189-4926-A855-971556810BD3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{6B815223-A5FE-4397-8C80-6C220896F3D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{6B815223-A5FE-4397-8C80-6C220896F3D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{459152E7-B7D8-45CA-BD0A-346849FDDAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{459152E7-B7D8-45CA-BD0A-346849FDDAE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{2203695C-E14C-4804-93F7-6857F9E9C57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{2203695C-E14C-4804-93F7-6857F9E9C57B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{921AA1D0-4FD1-4795-A51C-7C6F87F29005}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{921AA1D0-4FD1-4795-A51C-7C6F87F29005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{14273BC4-66C5-47D4-B571-6F4208F8E16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "MergeSort\MergeSort.csproj", "{14273BC4-66C5-47D4-B571-6F4208F8E16A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedArrays", "MergeTwoSortedArrays\MergeTwoSortedArrays.csproj", "{7637699A-3274-4635-8FF6-B77E07D6A667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedArrays", "MergeTwoSortedArrays\MergeTwoSortedArrays.csproj", "{7637699A-3274-4635-8FF6-B77E07D6A667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{62AECBA4-B705-4190-A96F-FA9EF7C8B639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{62AECBA4-B705-4190-A96F-FA9EF7C8B639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRobber", "HouseRobber\HouseRobber.csproj", "{2C99C618-7869-4801-9768-6B7658E3437F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRobber", "HouseRobber\HouseRobber.csproj", "{2C99C618-7869-4801-9768-6B7658E3437F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +141,10 @@ Global
 		{2C99C618-7869-4801-9768-6B7658E3437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C99C618-7869-4801-9768-6B7658E3437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C99C618-7869-4801-9768-6B7658E3437F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04E85C5-1096-47FF-99CE-8A2F3DB8B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
