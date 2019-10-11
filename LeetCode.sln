@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIsland", "NumberOfIsland\NumberOfIsland.csproj", "{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{46DED3BE-0587-435A-A3DE-A04E82E6F969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLevelOrderTraversal", "BinaryTreeOrderTraversal\BinaryTreeLevelOrderTraversal.csproj", "{8503AC34-6B8E-44FA-9347-F5C79F17FC4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,10 @@ Global
 		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0318878B-FEB0-47C7-9CCB-A92D853CDAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8503AC34-6B8E-44FA-9347-F5C79F17FC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8503AC34-6B8E-44FA-9347-F5C79F17FC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8503AC34-6B8E-44FA-9347-F5C79F17FC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8503AC34-6B8E-44FA-9347-F5C79F17FC4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +173,7 @@ Global
 		{459152E7-B7D8-45CA-BD0A-346849FDDAE9} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
 		{2203695C-E14C-4804-93F7-6857F9E9C57B} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
 		{921AA1D0-4FD1-4795-A51C-7C6F87F29005} = {84F4EF6F-113D-4BCA-BEB9-DE4A8A9B8F05}
+		{8503AC34-6B8E-44FA-9347-F5C79F17FC4D} = {46DED3BE-0587-435A-A3DE-A04E82E6F969}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F4B5700-1ABE-45B0-8608-FE49FEDB3BF4}

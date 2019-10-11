@@ -8,7 +8,7 @@ namespace NumberOfIsland
         {
             string[][] testcase = new string[][] {
                                               new string[]    { "1", "0", "0", "0"},
-                                               new string[]   { "1", "1", "1", "0"},
+                                               new string[]   { "1", "1", "0", "0"},
                                                new string[]   { "1", "0", "0", "0"},
                                                new string[]   { "1", "0", "0", "1"}
             };
